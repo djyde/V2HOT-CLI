@@ -1,0 +1,18 @@
+{
+  "name": "v2hot",
+  "version": "0.1.0",
+  "main": "index.js",
+  "description": "v2ex hot topics CLI",
+  "keywords": [
+    "v2ex",
+    "v2hot"
+  ],
+  "bin": "./index.js",
+  "author": "Randy <randypriv@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eventproxy": "^0.3.2",
+    "request": "^2.53.0",
+    "term-list": "^0.2.1"
+  }
+}
